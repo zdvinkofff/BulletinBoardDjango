@@ -1,5 +1,6 @@
 from django.urls import path
 from . import views
+from . import views as board_views
 
 app_name = 'board'
 
